@@ -35,9 +35,6 @@ This project showcases hand-written implementations of core data structures to e
 ![Passengers management](assets/4.png)
 ![stats View](assets/5.png)
 
-
-> _Replace these file paths with your actual screenshot names once uploaded to your GitHub repo._
-
 ## 🧠 Technologies Used
 
 - **Language**: Java
